@@ -1,0 +1,77 @@
+{
+	"storyName": "last breath old canon with new songs",
+	"difficulties": "hard,fdy",
+	"hideFreeplay": false,
+	"weekBackground": "timeline1",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"heartless",
+			"papyrus",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"experiment",
+			"gaster",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"encounter",
+			"gaster",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Laidback",
+			"sansp1",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Rejunevation",
+			"sansp2",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Code-down",
+			"sansp3",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"sansp1",
+		"",
+		"boyfriend"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "sans week"
+}

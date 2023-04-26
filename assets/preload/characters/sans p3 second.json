@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				49,
+				-180
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "sans hurt",
+			"indices": [],
+			"name": "sans hurt"
+		},
+		{
+			"offsets": [
+				70,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "crazy sans omg 2"
+		},
+		{
+			"offsets": [
+				70,
+				-80
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "turns into phase 3 idle",
+			"indices": [],
+			"name": "crazy sans omg turns into 1 idle"
+		},
+		{
+			"offsets": [
+				71,
+				-70
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "turns into phase 3",
+			"indices": [],
+			"name": "crazy sans omg turns into 3 real"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sans p3 beginning",
+	"position": [
+		-470,
+		-40
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

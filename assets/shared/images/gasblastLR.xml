@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gasblastLR.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GasBlastRight0000" x="0" y="0" width="328" height="509" frameX="-128" frameY="0" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0001" x="328" y="0" width="299" height="521" frameX="-220" frameY="-49" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0002" x="627" y="0" width="283" height="518" frameX="-353" frameY="-149" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0003" x="910" y="0" width="326" height="496" frameX="-531" frameY="-344" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0004" x="1236" y="0" width="401" height="451" frameX="-624" frameY="-492" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0005" x="1637" y="0" width="447" height="411" frameX="-672" frameY="-580" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0006" x="2084" y="0" width="473" height="382" frameX="-704" frameY="-637" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0007" x="2557" y="0" width="486" height="365" frameX="-729" frameY="-673" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0008" x="3043" y="0" width="495" height="353" frameX="-747" frameY="-697" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0009" x="3538" y="0" width="501" height="345" frameX="-760" frameY="-714" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0010" x="4039" y="0" width="505" height="339" frameX="-770" frameY="-726" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0011" x="4544" y="0" width="507" height="334" frameX="-777" frameY="-735" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0012" x="5051" y="0" width="509" height="331" frameX="-781" frameY="-740" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0013" x="5560" y="0" width="509" height="330" frameX="-784" frameY="-743" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0014" x="6069" y="0" width="510" height="329" frameX="-784" frameY="-744" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0015" x="6069" y="0" width="510" height="329" frameX="-784" frameY="-744" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0016" x="6069" y="0" width="510" height="329" frameX="-784" frameY="-744" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0017" x="6069" y="0" width="510" height="329" frameX="-784" frameY="-744" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0018" x="6069" y="0" width="510" height="329" frameX="-784" frameY="-744" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0019" x="0" y="521" width="2815" height="370" frameX="-764" frameY="-680" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0020" x="2815" y="521" width="2815" height="370" frameX="-764" frameY="-680" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0021" x="0" y="891" width="2815" height="370" frameX="-763" frameY="-680" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0022" x="2815" y="891" width="2814" height="370" frameX="-762" frameY="-680" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0023" x="0" y="1261" width="2815" height="370" frameX="-759" frameY="-680" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0024" x="2815" y="1261" width="2814" height="369" frameX="-757" frameY="-681" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0025" x="0" y="1631" width="2814" height="369" frameX="-753" frameY="-681" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0026" x="2814" y="1631" width="2813" height="369" frameX="-749" frameY="-681" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0027" x="0" y="2000" width="2813" height="367" frameX="-743" frameY="-682" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0028" x="2813" y="2000" width="2813" height="367" frameX="-736" frameY="-682" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0029" x="0" y="2367" width="2812" height="366" frameX="-728" frameY="-683" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0030" x="2812" y="2367" width="2810" height="365" frameX="-719" frameY="-683" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0031" x="0" y="2733" width="2810" height="364" frameX="-707" frameY="-684" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0032" x="2810" y="2733" width="2809" height="362" frameX="-693" frameY="-685" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0033" x="0" y="3097" width="2805" height="360" frameX="-678" frameY="-686" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0034" x="2805" y="3097" width="2804" height="357" frameX="-658" frameY="-688" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0035" x="0" y="3457" width="2801" height="354" frameX="-634" frameY="-690" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0036" x="2801" y="3457" width="2799" height="351" frameX="-603" frameY="-692" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0037" x="0" y="3811" width="2795" height="346" frameX="-564" frameY="-695" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0038" x="2795" y="3811" width="2789" height="339" frameX="-512" frameY="-699" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0039" x="0" y="4157" width="2782" height="331" frameX="-438" frameY="-704" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0040" x="2782" y="4157" width="2771" height="318" frameX="-334" frameY="-712" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0041" x="0" y="4488" width="2760" height="305" frameX="-221" frameY="-720" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0042" x="2760" y="4488" width="2752" height="295" frameX="-136" frameY="-726" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0043" x="0" y="4793" width="2746" height="288" frameX="-77" frameY="-730" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0044" x="2746" y="4793" width="2742" height="283" frameX="-34" frameY="-733" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0045" x="0" y="5081" width="2739" height="278" frameX="0" frameY="-736" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0046" x="2739" y="5081" width="2410" height="121" frameX="-329" frameY="-845" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0047" x="5149" y="5081" width="2411" height="89" frameX="-328" frameY="-860" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0048" x="0" y="5359" width="2411" height="54" frameX="-328" frameY="-877" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0049" x="2411" y="5359" width="2411" height="20" frameX="-328" frameY="-894" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0050" x="2411" y="5359" width="2411" height="20" frameX="-329" frameY="-895" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0051" x="2411" y="5359" width="2411" height="20" frameX="-329" frameY="-895" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0052" x="2411" y="5359" width="2411" height="20" frameX="-329" frameY="-895" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0053" x="2411" y="5359" width="2411" height="20" frameX="-329" frameY="-895" frameWidth="3579" frameHeight="1073"/>
+	<SubTexture name="GasBlastRight0054" x="2411" y="5359" width="2411" height="20" frameX="-329" frameY="-895" frameWidth="3579" frameHeight="1073"/>
+</TextureAtlas>

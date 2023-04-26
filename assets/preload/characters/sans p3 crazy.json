@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "crazy sans omg idle"
+		},
+		{
+			"offsets": [
+				181,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "crazy sans omg left"
+		},
+		{
+			"offsets": [
+				-30,
+				-99
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "crazy sans omg down"
+		},
+		{
+			"offsets": [
+				34,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "crazy sans omg up"
+		},
+		{
+			"offsets": [
+				-40,
+				-73
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "crazy sans omg right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "crazy sans omg idle"
+		},
+		{
+			"offsets": [
+				101,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "crazy sans omg left"
+		},
+		{
+			"offsets": [
+				-60,
+				-53
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "crazy sans omg right"
+		},
+		{
+			"offsets": [
+				34,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "crazy sans omg up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sans p3 crazy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

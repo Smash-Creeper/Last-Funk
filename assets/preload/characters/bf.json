@@ -13,7 +13,7 @@
 		},
 		{
 			"offsets": [
-				5,
+				12,
 				-6
 			],
 			"loop": false,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-20,
-				-51
+				-10,
+				-50
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,7 +35,7 @@
 		},
 		{
 			"offsets": [
-				-46,
+				-29,
 				27
 			],
 			"loop": false,
@@ -46,7 +46,7 @@
 		},
 		{
 			"offsets": [
-				-48,
+				-38,
 				-7
 			],
 			"loop": false,
@@ -57,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				7,
-				19
+				12,
+				24
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,7 +68,7 @@
 		},
 		{
 			"offsets": [
-				-15,
+				-11,
 				-19
 			],
 			"loop": false,
@@ -79,7 +79,7 @@
 		},
 		{
 			"offsets": [
-				-46,
+				-29,
 				27
 			],
 			"loop": false,
@@ -90,8 +90,8 @@
 		},
 		{
 			"offsets": [
-				-44,
-				22
+				-30,
+				21
 			],
 			"loop": false,
 			"fps": 24,
@@ -112,7 +112,7 @@
 		},
 		{
 			"offsets": [
-				14,
+				15,
 				18
 			],
 			"loop": false,
@@ -134,36 +134,36 @@
 		},
 		{
 			"offsets": [
-				-10,
-				-16
+				37,
+				11
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "dodge",
+			"anim": "firstDeath",
 			"indices": [],
-			"name": "boyfriend dodge"
+			"name": "BF dies"
 		},
 		{
 			"offsets": [
-				294,
-				267
+				37,
+				5
 			],
-			"loop": false,
+			"loop": true,
 			"fps": 24,
-			"anim": "attack",
+			"anim": "deathLoop",
 			"indices": [],
-			"name": "boyfriend attack"
+			"name": "BF Dead Loop"
 		},
 		{
 			"offsets": [
-				-40,
-				-40
+				37,
+				69
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "pre-attack",
+			"anim": "deathConfirm",
 			"indices": [],
-			"name": "bf pre attack"
+			"name": "BF Dead confirm"
 		}
 	],
 	"no_antialiasing": false,
@@ -175,9 +175,9 @@
 	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		255,
+		255,
+		0
 	],
 	"camera_position": [
 		0,

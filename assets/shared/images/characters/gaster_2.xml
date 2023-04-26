@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sans2.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gaster down0000" x="4" y="4" width="849" height="542" frameX="0" frameY="-16" frameWidth="849" frameHeight="560"/>
+	<SubTexture name="gaster down0001" x="858" y="4" width="805" height="554" frameX="-22" frameY="-5" frameWidth="849" frameHeight="560"/>
+	<SubTexture name="gaster down0002" x="858" y="4" width="805" height="554" frameX="-22" frameY="-5" frameWidth="849" frameHeight="560"/>
+	<SubTexture name="gaster down0003" x="1668" y="4" width="797" height="560" frameX="-26" frameY="0" frameWidth="849" frameHeight="560"/>
+	<SubTexture name="gaster down0004" x="1668" y="4" width="797" height="560" frameX="-26" frameY="0" frameWidth="849" frameHeight="560"/>
+	<SubTexture name="gaster down0005" x="2470" y="4" width="787" height="560" frameX="-31" frameY="0" frameWidth="849" frameHeight="560"/>
+	<SubTexture name="gaster down0006" x="2470" y="4" width="787" height="560" frameX="-31" frameY="0" frameWidth="849" frameHeight="560"/>
+	<SubTexture name="gaster down0007" x="2470" y="4" width="787" height="560" frameX="-31" frameY="0" frameWidth="849" frameHeight="560"/>
+	<SubTexture name="gaster down0008" x="2470" y="4" width="787" height="560" frameX="-31" frameY="0" frameWidth="849" frameHeight="560"/>
+	<SubTexture name="gaster down0009" x="2470" y="4" width="787" height="560" frameX="-31" frameY="0" frameWidth="849" frameHeight="560"/>
+	<SubTexture name="gaster down0010" x="2470" y="4" width="787" height="560" frameX="-31" frameY="0" frameWidth="849" frameHeight="560"/>
+	<SubTexture name="gaster down0011" x="2470" y="4" width="787" height="560" frameX="-31" frameY="0" frameWidth="849" frameHeight="560"/>
+	<SubTexture name="gaster down0012" x="2470" y="4" width="787" height="560" frameX="-31" frameY="0" frameWidth="849" frameHeight="560"/>
+	<SubTexture name="gaster down0013" x="2470" y="4" width="787" height="560" frameX="-31" frameY="0" frameWidth="849" frameHeight="560"/>
+	<SubTexture name="gaster idle0000" x="3262" y="4" width="779" height="669" frameX="0" frameY="-21" frameWidth="785" frameHeight="691"/>
+	<SubTexture name="gaster idle0001" x="3262" y="4" width="779" height="669" frameX="0" frameY="-21" frameWidth="785" frameHeight="691"/>
+	<SubTexture name="gaster idle0002" x="4046" y="4" width="779" height="667" frameX="0" frameY="-23" frameWidth="785" frameHeight="691"/>
+	<SubTexture name="gaster idle0003" x="4830" y="4" width="780" height="676" frameX="-2" frameY="-14" frameWidth="785" frameHeight="691"/>
+	<SubTexture name="gaster idle0004" x="4830" y="4" width="780" height="676" frameX="-2" frameY="-14" frameWidth="785" frameHeight="691"/>
+	<SubTexture name="gaster idle0005" x="5615" y="4" width="780" height="674" frameX="-2" frameY="-16" frameWidth="785" frameHeight="691"/>
+	<SubTexture name="gaster idle0006" x="6400" y="4" width="776" height="691" frameX="-7" frameY="0" frameWidth="785" frameHeight="691"/>
+	<SubTexture name="gaster idle0007" x="6400" y="4" width="776" height="691" frameX="-7" frameY="0" frameWidth="785" frameHeight="691"/>
+	<SubTexture name="gaster idle0008" x="7181" y="4" width="778" height="690" frameX="-7" frameY="-1" frameWidth="785" frameHeight="691"/>
+	<SubTexture name="gaster idle0009" x="4" y="700" width="769" height="691" frameX="-10" frameY="0" frameWidth="785" frameHeight="691"/>
+	<SubTexture name="gaster idle0010" x="4" y="700" width="769" height="691" frameX="-10" frameY="0" frameWidth="785" frameHeight="691"/>
+	<SubTexture name="gaster idle0011" x="4" y="700" width="769" height="691" frameX="-10" frameY="-1" frameWidth="785" frameHeight="691"/>
+	<SubTexture name="gaster idle0012" x="4" y="700" width="769" height="691" frameX="-10" frameY="-1" frameWidth="785" frameHeight="691"/>
+	<SubTexture name="gaster idle0013" x="4" y="700" width="769" height="691" frameX="-10" frameY="-1" frameWidth="785" frameHeight="691"/>
+	<SubTexture name="gaster left0000" x="778" y="700" width="1050" height="727" frameX="0" frameY="-9" frameWidth="1050" frameHeight="736"/>
+	<SubTexture name="gaster left0001" x="1833" y="700" width="1002" height="733" frameX="-46" frameY="-3" frameWidth="1050" frameHeight="736"/>
+	<SubTexture name="gaster left0002" x="2840" y="700" width="1002" height="736" frameX="-46" frameY="0" frameWidth="1050" frameHeight="736"/>
+	<SubTexture name="gaster left0003" x="3847" y="700" width="992" height="729" frameX="-56" frameY="-7" frameWidth="1050" frameHeight="736"/>
+	<SubTexture name="gaster left0004" x="3847" y="700" width="992" height="729" frameX="-56" frameY="-7" frameWidth="1050" frameHeight="736"/>
+	<SubTexture name="gaster left0005" x="4844" y="700" width="988" height="727" frameX="-60" frameY="-9" frameWidth="1050" frameHeight="736"/>
+	<SubTexture name="gaster left0006" x="4844" y="700" width="988" height="727" frameX="-60" frameY="-9" frameWidth="1050" frameHeight="736"/>
+	<SubTexture name="gaster left0007" x="4844" y="700" width="988" height="727" frameX="-60" frameY="-9" frameWidth="1050" frameHeight="736"/>
+	<SubTexture name="gaster left0008" x="4844" y="700" width="988" height="727" frameX="-60" frameY="-9" frameWidth="1050" frameHeight="736"/>
+	<SubTexture name="gaster left0009" x="4844" y="700" width="988" height="727" frameX="-60" frameY="-9" frameWidth="1050" frameHeight="736"/>
+	<SubTexture name="gaster left0010" x="4844" y="700" width="988" height="727" frameX="-60" frameY="-9" frameWidth="1050" frameHeight="736"/>
+	<SubTexture name="gaster left0011" x="4844" y="700" width="988" height="727" frameX="-60" frameY="-9" frameWidth="1050" frameHeight="736"/>
+	<SubTexture name="gaster left0012" x="4844" y="700" width="988" height="727" frameX="-60" frameY="-9" frameWidth="1050" frameHeight="736"/>
+	<SubTexture name="gaster left0013" x="4844" y="700" width="988" height="727" frameX="-60" frameY="-9" frameWidth="1050" frameHeight="736"/>
+	<SubTexture name="gaster r0000" x="5837" y="700" width="932" height="726"/>
+	<SubTexture name="gaster r0001" x="6774" y="700" width="915" height="703" frameX="-2" frameY="-23" frameWidth="932" frameHeight="726"/>
+	<SubTexture name="gaster r0002" x="4" y="1441" width="915" height="700" frameX="-2" frameY="-26" frameWidth="932" frameHeight="726"/>
+	<SubTexture name="gaster r0003" x="924" y="1441" width="903" height="696" frameX="-3" frameY="-30" frameWidth="932" frameHeight="726"/>
+	<SubTexture name="gaster r0004" x="1832" y="1441" width="904" height="696" frameX="-3" frameY="-30" frameWidth="932" frameHeight="726"/>
+	<SubTexture name="gaster r0005" x="2741" y="1441" width="899" height="695" frameX="-3" frameY="-31" frameWidth="932" frameHeight="726"/>
+	<SubTexture name="gaster r0006" x="2741" y="1441" width="899" height="695" frameX="-3" frameY="-31" frameWidth="932" frameHeight="726"/>
+	<SubTexture name="gaster r0007" x="3645" y="1441" width="899" height="696" frameX="-3" frameY="-30" frameWidth="932" frameHeight="726"/>
+	<SubTexture name="gaster r0008" x="3645" y="1441" width="899" height="696" frameX="-3" frameY="-30" frameWidth="932" frameHeight="726"/>
+	<SubTexture name="gaster r0009" x="3645" y="1441" width="899" height="696" frameX="-3" frameY="-30" frameWidth="932" frameHeight="726"/>
+	<SubTexture name="gaster r0010" x="3645" y="1441" width="899" height="696" frameX="-3" frameY="-30" frameWidth="932" frameHeight="726"/>
+	<SubTexture name="gaster r0011" x="3645" y="1441" width="899" height="696" frameX="-3" frameY="-30" frameWidth="932" frameHeight="726"/>
+	<SubTexture name="gaster r0012" x="3645" y="1441" width="899" height="696" frameX="-3" frameY="-30" frameWidth="932" frameHeight="726"/>
+	<SubTexture name="gaster r0013" x="3645" y="1441" width="899" height="696" frameX="-3" frameY="-30" frameWidth="932" frameHeight="726"/>
+	<SubTexture name="gaster up0000" x="4549" y="1441" width="998" height="887" frameX="-11" frameY="0" frameWidth="1025" frameHeight="887"/>
+	<SubTexture name="gaster up0001" x="5552" y="1441" width="1018" height="858" frameX="-3" frameY="-29" frameWidth="1025" frameHeight="887"/>
+	<SubTexture name="gaster up0002" x="5552" y="1441" width="1018" height="858" frameX="-3" frameY="-29" frameWidth="1025" frameHeight="887"/>
+	<SubTexture name="gaster up0003" x="6575" y="1441" width="1025" height="834" frameX="0" frameY="-53" frameWidth="1025" frameHeight="887"/>
+	<SubTexture name="gaster up0004" x="6575" y="1441" width="1025" height="834" frameX="0" frameY="-53" frameWidth="1025" frameHeight="887"/>
+	<SubTexture name="gaster up0005" x="4" y="2333" width="1025" height="831" frameX="0" frameY="-56" frameWidth="1025" frameHeight="887"/>
+	<SubTexture name="gaster up0006" x="4" y="2333" width="1025" height="831" frameX="0" frameY="-56" frameWidth="1025" frameHeight="887"/>
+	<SubTexture name="gaster up0007" x="4" y="2333" width="1025" height="831" frameX="0" frameY="-56" frameWidth="1025" frameHeight="887"/>
+	<SubTexture name="gaster up0008" x="4" y="2333" width="1025" height="831" frameX="0" frameY="-56" frameWidth="1025" frameHeight="887"/>
+	<SubTexture name="gaster up0009" x="4" y="2333" width="1025" height="831" frameX="0" frameY="-56" frameWidth="1025" frameHeight="887"/>
+	<SubTexture name="gaster up0010" x="4" y="2333" width="1025" height="831" frameX="0" frameY="-56" frameWidth="1025" frameHeight="887"/>
+	<SubTexture name="gaster up0011" x="4" y="2333" width="1025" height="831" frameX="0" frameY="-56" frameWidth="1025" frameHeight="887"/>
+	<SubTexture name="gaster up0012" x="4" y="2333" width="1025" height="831" frameX="0" frameY="-56" frameWidth="1025" frameHeight="887"/>
+	<SubTexture name="gaster up0013" x="4" y="2333" width="1025" height="831" frameX="0" frameY="-56" frameWidth="1025" frameHeight="887"/>
+</TextureAtlas>

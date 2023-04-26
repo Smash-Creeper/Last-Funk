@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sans p3 beginning.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crazy sans omg 20000" x="0" y="0" width="1178" height="720"/>
+	<SubTexture name="crazy sans omg 20001" x="0" y="0" width="1178" height="720"/>
+	<SubTexture name="crazy sans omg 20002" x="0" y="0" width="1178" height="720"/>
+	<SubTexture name="crazy sans omg 20003" x="1178" y="0" width="1178" height="720"/>
+	<SubTexture name="crazy sans omg 20004" x="1178" y="0" width="1178" height="720"/>
+	<SubTexture name="crazy sans omg 20005" x="1178" y="0" width="1178" height="720"/>
+	<SubTexture name="crazy sans omg 20006" x="2356" y="0" width="1178" height="720"/>
+	<SubTexture name="crazy sans omg 20007" x="2356" y="0" width="1178" height="720"/>
+	<SubTexture name="crazy sans omg 20008" x="2356" y="0" width="1178" height="720"/>
+	<SubTexture name="crazy sans omg 20009" x="3534" y="0" width="1178" height="720"/>
+	<SubTexture name="crazy sans omg 20010" x="3534" y="0" width="1178" height="720"/>
+	<SubTexture name="crazy sans omg 20011" x="3534" y="0" width="1178" height="720"/>
+	<SubTexture name="crazy sans omg 20012" x="3534" y="0" width="1178" height="720"/>
+	<SubTexture name="crazy sans omg 20013" x="3534" y="0" width="1178" height="720"/>
+	<SubTexture name="crazy sans omg turns into 1 idle0000" x="4712" y="0" width="1177" height="739"/>
+	<SubTexture name="crazy sans omg turns into 1 idle0001" x="5889" y="0" width="1177" height="739"/>
+	<SubTexture name="crazy sans omg turns into 1 idle0002" x="5889" y="0" width="1177" height="739"/>
+	<SubTexture name="crazy sans omg turns into 1 idle0003" x="0" y="739" width="1177" height="739"/>
+	<SubTexture name="crazy sans omg turns into 1 idle0004" x="0" y="739" width="1177" height="739"/>
+	<SubTexture name="crazy sans omg turns into 1 idle0005" x="1177" y="739" width="1177" height="739"/>
+	<SubTexture name="crazy sans omg turns into 1 idle0006" x="1177" y="739" width="1177" height="739"/>
+	<SubTexture name="crazy sans omg turns into 1 idle0007" x="2354" y="739" width="1177" height="739"/>
+	<SubTexture name="crazy sans omg turns into 1 idle0008" x="2354" y="739" width="1177" height="739"/>
+	<SubTexture name="crazy sans omg turns into 1 idle0009" x="2354" y="739" width="1177" height="739"/>
+	<SubTexture name="crazy sans omg turns into 1 idle0010" x="2354" y="739" width="1177" height="739"/>
+	<SubTexture name="crazy sans omg turns into 1 idle0011" x="2354" y="739" width="1177" height="739"/>
+	<SubTexture name="crazy sans omg turns into 1 idle0012" x="2354" y="739" width="1177" height="739"/>
+	<SubTexture name="crazy sans omg turns into 1 idle0013" x="2354" y="739" width="1177" height="739"/>
+	<SubTexture name="crazy sans omg turns into 1 idle0014" x="2354" y="739" width="1177" height="739"/>
+	<SubTexture name="crazy sans omg turns into 3 real0000" x="3531" y="739" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0001" x="3531" y="739" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0002" x="3531" y="739" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0003" x="3531" y="739" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0004" x="3531" y="739" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0005" x="4756" y="739" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0006" x="5981" y="739" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0007" x="0" y="1537" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0008" x="1225" y="1537" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0009" x="2450" y="1537" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0010" x="3675" y="1537" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0011" x="3675" y="1537" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0012" x="3675" y="1537" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0013" x="3675" y="1537" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0014" x="4900" y="1537" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0015" x="4900" y="1537" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0016" x="3675" y="1537" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0017" x="3675" y="1537" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0018" x="3675" y="1537" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0019" x="3675" y="1537" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0020" x="4900" y="1537" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0021" x="4900" y="1537" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0022" x="6125" y="1537" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0023" x="6125" y="1537" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0024" x="6125" y="1537" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0025" x="3675" y="1537" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0026" x="3675" y="1537" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0027" x="2450" y="1537" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0028" x="2450" y="1537" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0029" x="0" y="2335" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0030" x="0" y="2335" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0031" x="1225" y="2335" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0032" x="1225" y="2335" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0033" x="0" y="2335" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0034" x="0" y="2335" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0035" x="2450" y="2335" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0036" x="1225" y="2335" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0037" x="3675" y="2335" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0038" x="4900" y="2335" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0039" x="6125" y="2335" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0040" x="0" y="3133" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0041" x="1225" y="3133" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0042" x="2450" y="3133" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0043" x="3675" y="3133" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0044" x="3675" y="3133" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0045" x="3675" y="3133" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0046" x="3675" y="3133" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0047" x="3675" y="3133" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0048" x="3675" y="3133" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0049" x="3675" y="3133" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0050" x="3675" y="3133" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0051" x="3675" y="3133" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0052" x="4900" y="3133" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0053" x="4900" y="3133" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0054" x="6125" y="3133" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0055" x="6125" y="3133" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0056" x="0" y="3931" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0057" x="1225" y="3931" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0058" x="2450" y="3931" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0059" x="3675" y="3931" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0060" x="4900" y="3931" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0061" x="6125" y="3931" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0062" x="6125" y="3931" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0063" x="6125" y="3931" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0064" x="6125" y="3931" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0065" x="6125" y="3931" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0066" x="6125" y="3931" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0067" x="6125" y="3931" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0068" x="6125" y="3931" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0069" x="6125" y="3931" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0070" x="0" y="4729" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0071" x="0" y="4729" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0072" x="0" y="4729" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0073" x="0" y="4729" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0074" x="0" y="4729" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0075" x="0" y="4729" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0076" x="0" y="4729" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0077" x="0" y="4729" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0078" x="0" y="4729" width="1225" height="798"/>
+	<SubTexture name="crazy sans omg turns into 3 real0079" x="0" y="4729" width="1225" height="798"/>
+	<SubTexture name="sans hurt0000" x="1225" y="4729" width="1084" height="621"/>
+	<SubTexture name="sans hurt0001" x="1225" y="4729" width="1084" height="621"/>
+	<SubTexture name="sans hurt0002" x="1225" y="4729" width="1084" height="621"/>
+	<SubTexture name="sans hurt0003" x="2309" y="4729" width="1084" height="621"/>
+	<SubTexture name="sans hurt0004" x="2309" y="4729" width="1084" height="621"/>
+	<SubTexture name="sans hurt0005" x="2309" y="4729" width="1084" height="621"/>
+	<SubTexture name="sans hurt0006" x="3393" y="4729" width="1084" height="621"/>
+	<SubTexture name="sans hurt0007" x="3393" y="4729" width="1084" height="621"/>
+	<SubTexture name="sans hurt0008" x="3393" y="4729" width="1084" height="621"/>
+	<SubTexture name="sans hurt0009" x="4477" y="4729" width="1084" height="621"/>
+	<SubTexture name="sans hurt0010" x="4477" y="4729" width="1084" height="621"/>
+	<SubTexture name="sans hurt0011" x="5561" y="4729" width="1084" height="621"/>
+	<SubTexture name="sans hurt0012" x="4477" y="4729" width="1084" height="621"/>
+	<SubTexture name="sans hurt0013" x="4477" y="4729" width="1084" height="621"/>
+	<SubTexture name="sans hurt0014" x="4477" y="4729" width="1084" height="621"/>
+	<SubTexture name="sans hurt0015" x="4477" y="4729" width="1084" height="621"/>
+	<SubTexture name="sans hurt0016" x="4477" y="4729" width="1084" height="621"/>
+	<SubTexture name="sans hurt0017" x="4477" y="4729" width="1084" height="621"/>
+	<SubTexture name="sans hurt0018" x="4477" y="4729" width="1084" height="621"/>
+	<SubTexture name="sans hurt0019" x="4477" y="4729" width="1084" height="621"/>
+</TextureAtlas>
