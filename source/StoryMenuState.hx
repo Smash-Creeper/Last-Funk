@@ -83,6 +83,9 @@ class StoryMenuState extends MusicBeatState
 		var blackBarThingie:FlxSprite = new FlxSprite().makeGraphic(FlxG.width, 56, FlxColor.BLACK);
 		add(blackBarThingie);
 
+		var BlackBarThinglol:FlxSprite = new FlxSprite().makeGraphic(FlxG.width, 46, FlxColor.BLACK);
+		add(BlackBarThinglol);
+		
 		grpWeekCharacters = new FlxTypedGroup<MenuCharacter>();
 
 		grpLocks = new FlxTypedGroup<FlxSprite>();
