@@ -1351,11 +1351,11 @@
 			]
 		],
 		"player3": null,
-		"song": "encounter",
+		"song": "greater",
 		"stage": "judgement hall",
 		"validScore": true,
 		"needsVoices": true,
 		"speed": 2.3,
-		"bpm": 140
+		"bpm": 137
 	}
 }
