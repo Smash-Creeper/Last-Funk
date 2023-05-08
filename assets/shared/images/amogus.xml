@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="amogus.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hp_bar0000" x="0" y="0" width="879" height="129"/>
+	<SubTexture name="hp_bar0001" x="0" y="0" width="879" height="129"/>
+	<SubTexture name="hp_bar0002" x="0" y="129" width="875" height="127" frameX="-2" frameY="0" frameWidth="879" frameHeight="129"/>
+	<SubTexture name="hp_bar0003" x="0" y="129" width="875" height="127" frameX="-2" frameY="0" frameWidth="879" frameHeight="129"/>
+	<SubTexture name="hp_bar0004" x="0" y="256" width="853" height="125" frameX="-13" frameY="0" frameWidth="879" frameHeight="129"/>
+	<SubTexture name="hp_bar0005" x="0" y="256" width="853" height="125" frameX="-13" frameY="0" frameWidth="879" frameHeight="129"/>
+	<SubTexture name="hp_bar0006" x="0" y="381" width="849" height="124" frameX="-15" frameY="0" frameWidth="879" frameHeight="129"/>
+	<SubTexture name="hp_bar0007" x="0" y="381" width="849" height="124" frameX="-15" frameY="0" frameWidth="879" frameHeight="129"/>
+	<SubTexture name="hp_bar0008" x="0" y="505" width="847" height="124" frameX="-16" frameY="0" frameWidth="879" frameHeight="129"/>
+	<SubTexture name="hp_bar0009" x="0" y="505" width="847" height="124" frameX="-16" frameY="0" frameWidth="879" frameHeight="129"/>
+</TextureAtlas>
