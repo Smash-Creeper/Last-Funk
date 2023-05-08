@@ -631,7 +631,7 @@ class TitleState extends MusicBeatState
 					#if PSYCH_WATERMARKS
 					createCoolText(['Psych Engine by'], 15);
 					#else
-					createCoolText(['ninjamuffin99', 'phantomArcade', 'kawaisprite', 'evilsk8er']);
+					createCoolText(['Last Funk Dev Team']);
 					#end
 				// credTextShit.visible = true;
 				case 4:
@@ -640,7 +640,7 @@ class TitleState extends MusicBeatState
 					addMoreText('RiverOaken', 15);
 					addMoreText('shubs', 15);
 					#else
-					addMoreText('present');
+					addMoreText('presents..');
 					#end
 				// credTextShit.text += '\npresent...';
 				// credTextShit.addText();
@@ -653,15 +653,13 @@ class TitleState extends MusicBeatState
 					#if PSYCH_WATERMARKS
 					createCoolText(['Not associated', 'with'], -40);
 					#else
-					createCoolText(['In association', 'with'], -40);
+					createCoolText(['We made this mod so cool', 'lmao'], -40);
 					#end
 				case 8:
-					addMoreText('newgrounds', -40);
-					ngSpr.visible = true;
+					addMoreText('Have fun playing this mod called', -40);
 				// credTextShit.text += '\nNewgrounds';
 				case 9:
 					deleteCoolText();
-					ngSpr.visible = false;
 				// credTextShit.visible = false;
 
 				// credTextShit.text = 'Shoutouts Tom Fulp';
@@ -678,13 +676,13 @@ class TitleState extends MusicBeatState
 				// credTextShit.text = "Friday";
 				// credTextShit.screenCenter();
 				case 14:
-					addMoreText('Friday');
+					addMoreText('FNF');
 				// credTextShit.visible = true;
 				case 15:
-					addMoreText('Night');
+					addMoreText('Last');
 				// credTextShit.text += '\nNight';
 				case 16:
-					addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
+					addMoreText('Funk'); // credTextShit.text += '\nFunkin';
 
 				case 17:
 					skipIntro();
